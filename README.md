@@ -1,6 +1,6 @@
 # QA Developer Technical Assessment
 
-**45 minutes • 4 modules • Hands-on coding**
+**50 minutes • 3 modules • Hands-on coding**
 
 ## Quick Start
 
@@ -24,13 +24,13 @@ cd ../python && python3 src/demo.py
 
 ## Modules
 
-### 1. Programming Skills (15 min)
-**JavaScript (8 min)**: Write tests in `Programming/javascript/tests/utils.test.js`
+### 1. Programming Skills (20 min)
+**JavaScript (10 min)**: Write tests in `Programming/javascript/tests/utils.test.js`
 - Run demo: `node src/demo.js`
 - Run tests: `npm test`
 - Find bugs and write tests to expose them
 
-**Python (7 min)**: Write tests in `Programming/python/tests/test_calculator.py`
+**Python (10 min)**: Write tests in `Programming/python/tests/test_calculator.py`
 - Run demo: `python3 src/demo.py`
 - Run tests: `pytest`
 - Find bugs and write tests to expose them
@@ -69,4 +69,5 @@ git push origin assessment/your-name
 - Run tests to verify your work
 
 **Prerequisites**: Node.js 16+, Python 3.8+, Git
+# QA_Technical_Testing
 # QA_Technical_Testing
