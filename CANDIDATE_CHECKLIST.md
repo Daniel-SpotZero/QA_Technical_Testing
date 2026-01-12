@@ -14,19 +14,18 @@ cd ../../React_Testing && npm install
 
 ### 1. Programming (20 min)
 - JS: Write tests in `Programming/javascript/tests/utils.test.js`
-  - Run demo: `node src/demo.js`
+  - Run demo: `node index.js`
   - Find bugs and write tests that expose them
-- Python: Write tests in `Programming/python/tests/test_calculator.py`
-  - Run demo: `python3 src/demo.py`
+- Python: Write tests in `Programming/python/test_calculator.py`
+  - Run demo: `python3 main.py`
   - Find bugs and write tests that expose them
 
 ### 2. React (15 min)
 - Find and fix bugs in the Todo app
-- Document issues in `React_Testing/BUG_REPORT.md`
 - Write tests in `React_Testing/src/__tests__/quick-tests.test.jsx`
 
 ### 3. C Bonus (5 min - optional)
-- Debug `Programming/C-Bonus-Optional/buggy_program.c`
+- Debug `Programming/C-Bonus-Optional/main.c`
 - Find memory leaks and logic errors
 
 ## Submit
