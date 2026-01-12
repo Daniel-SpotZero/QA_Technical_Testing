@@ -10,10 +10,10 @@ This is a quick 45-minute technical skills assessment.
 
 | Module | Time | Weight | Max Score | Passing Score |
 |--------|------|--------|-----------|---------------|
-| 1. Programming Skills | 15 min | 50% | 10 | 6 |
+| 1. Programming Skills | 20 min | 50% | 10 | 6 |
 | 2. React Testing | 15 min | 50% | 10 | 6 |
 | 3. C Bonus | 5 min | Bonus | +5 | N/A |
-| **Total** | **35 min** | **100%** | **20** | **12** |
+| **Total** | **40 min** | **100%** | **20** | **12** |
 
 ### Score Interpretation
 
@@ -257,22 +257,22 @@ Positive indicators:
 
 Expected completion times by skill level:
 
-**Senior (30-35 minutes)**:
+**Senior (35-40 minutes)**:
 - Completes both modules efficiently
 - High quality documentation
 - May complete bonus
 
-**Mid (35-40 minutes)**:
+**Mid (40-45 minutes)**:
 - Completes required modules
 - Good quality work
 - May attempt bonus
 
-**Junior (40-45 minutes)**:
+**Junior (45-50 minutes)**:
 - Struggles with some modules
 - Basic completion
 - Unlikely to attempt bonus
 
-**Red Flag**: > 45 minutes with minimal completion
+**Red Flag**: > 50 minutes with minimal completion
 
 ---
 
@@ -280,11 +280,11 @@ Expected completion times by skill level:
 
 | Score | Time | Recommendation |
 |-------|------|----------------|
-| 16-20 | 30-35min | **Strong Hire** - Senior level |
-| 12-15 | 30-35min | **Hire** - Mid level |
-| 12-15 | 35-40min | **Hire** - Junior/Mid level |
-| 8-11 | 30-35min | **Maybe** - Needs interview |
-| 8-11 | > 40min | **Maybe** - Junior only |
+| 16-20 | 35-40min | **Strong Hire** - Senior level |
+| 12-15 | 35-40min | **Hire** - Mid level |
+| 12-15 | 40-45min | **Hire** - Junior/Mid level |
+| 8-11 | 35-40min | **Maybe** - Needs interview |
+| 8-11 | > 45min | **Maybe** - Junior only |
 | < 8 | Any | **No Hire** |
 
 ---

@@ -1,6 +1,6 @@
 # Quick Start
 
-**Time: 45 minutes total**
+**Time: 50 minutes total**
 
 ## Setup (5 min)
 ```bash
@@ -10,9 +10,9 @@ cd ../python && pip install -r requirements.txt
 cd ../../React_Testing && npm install
 ```
 
-## Modules (40 min)
+## Modules (45 min)
 
-### 1. Programming (15 min)
+### 1. Programming (20 min)
 - JS: Write tests in `Programming/javascript/tests/utils.test.js`
   - Run demo: `node src/demo.js`
   - Find bugs and write tests that expose them

@@ -1,7 +1,7 @@
 """
 Calculator Module
 
-Your task: Write comprehensive tests in tests/test_calculator.py (7 minutes)
+Your task: Write comprehensive tests in tests/test_calculator.py (10 minutes)
 Focus: Test all operations + edge cases + error handling
 
 Instructions:

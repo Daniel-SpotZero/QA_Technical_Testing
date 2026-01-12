@@ -1,7 +1,7 @@
 /**
  * Utility Functions to Test
  * 
- * Your task: Write comprehensive tests for these functions (8 minutes)
+ * Your task: Write comprehensive tests for these functions (10 minutes)
  * Focus: Test happy path + edge cases + error handling
  * 
  * Instructions:
